@@ -23,6 +23,7 @@ body{
 }
 
 .header__title{
+    font-family: var(--font-family-all);
     margin-top: 50px;
     margin-bottom: 50px;
     text-align: center;
